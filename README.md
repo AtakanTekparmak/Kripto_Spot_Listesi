@@ -41,9 +41,6 @@
 * **Proje:** Guncel yazilim muhendisliginde en populer database mimarisi olan relational databaseleri blockchain uzerinde uretme hedefi olan bu proje, ayni zamanda kendi websitesi uzerinden stakelenebilen tokenlere sahiptir. **RELL** adinda kendi database programlama dilleri vardir ve blockchain onun uzerine kurulmustur.
 * **Rating:** 8/10
 
-<br></br>
-<br></br>
-
 ## **$COS (Contentos)**
 
 * **Market Cap:** 27 Milyon $
@@ -74,9 +71,6 @@
 * **Whitepaper:** [Measurable Data Token Whitepaper](https://mdt.io/docs/whitepaper.pdf)
 * **Proje:** Veri paylasimi uzerine kurulu bi Blockchain. Websitesi cok guzel, mobil appi var, mail appi var. Kisisel kullanima cok uygun, kucuk yatirimciyi/kullaniciyi cekmek icin cok ugrasmislar. Isletmeler icin de Buyuk Veri uzerinden anlasmalari/kullanim alanlari var. Yazilimcilari takimi asyali muhendislerden olusuyo. Alisveris yaparken MDT kazanabileceginiz reward.me adinda bi appi var (Starbucks, Appstore, McDonalds etc.). Staking mevcut.
 * **Rating:** 10/10
-
-<br></br>
-<br></br>
 
 ## **$PROM (Prometeus)**
 
@@ -112,8 +106,6 @@
 * **Proje:** Blockchain uzerinden e-commerce (online alisveris) platformu kurulmasina imkan saglayan bi ekosistem. Su ana kadar 38m dolarlik yatirim yapilmis, bu buyuk yatirimcilara 2x'ten fazla kar getirmis, olumlu. Staking mevcut (yillik tahmini %25), websitesi cok guzel.
 * **Rating:** 9/10
 
-<br></br>
-
 ## **$ORN (Orion Protocol)**
 
 * **Market Cap:** 108 Milyon $
@@ -145,10 +137,6 @@
 * **Whitepaper:** [Swipe Whitepaper](https://swipe.io/ProductManual.pdf)
 * **Proje:** Bu projenin sahibi ve buyuk ortagi Binance. Kriptoparanin gercek hayatta gun icinde cok kolay ve seri kullanimi uzerine dayali bir misyona sahip. Visa ile anlasmalari ve 4 adet kartlari var. Mobil uygulamasi mevcut ve wallet appinde 50'den fazla kriptopara alim/satimi ve cevirimi yapilabiliyor.
 * **Rating:** 9/10
-
-<br></br>
-<br></br>
-<br></br>
 
 # Az Riskli Projeler (500m+ Market Cap)
 
@@ -182,9 +170,6 @@
 * **Whitepaper:** [Cardano Whitepaper](https://why.cardano.org/en/introduction/motivation/)
 * **Proje:** 2021'in en buyuk hamleler yapan kripto ekosistemi. Onumuzdeki ay icerisinde Etiyopya'nin milli kripto para biriminin uzerine kurulacagi soylenen bu platform, Mart ayi civarinda cikmasi planlanan smart contract programlama dili olan Goguen ile cok ileri seviyeleri hedefliyor. An itibariyle piyasadaki ADA tokenlerinin %80i stakelenmis durumda ve yil ortasina kadar maxim optima (%97.3) degerine ulasilmasi hedefleniyor. Bu hedeften sonra basilan tum ADA tokenleri stakelemis kullanicilara dagitilacak ve tamamen merkeziyetsiz ilk saglam kripto projesi olacak.
 * **Rating:** 10/10
-
-<br></br>
-<br></br>
 
 ## **$ETH (Ethereum)**
 
