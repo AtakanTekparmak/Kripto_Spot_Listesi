@@ -23,6 +23,7 @@
   - [**$PROM (Prometeus)**](#prom-prometeus)
   - [**$ORN (Orion Protocol)**](#orn-orion-protocol)
   - [**$FET (Fetch.ai)**](#fet-fetchai)
+  - [**$TOMO (Tomochain)**](#tomo-tomochain)
   - [**$LTO (LTO Network)**](#lto-lto-network)
   - [**$SXP (Swipe)**](#sxp-swipe)
   - [**$CVC (Civic)**](#cvc-civic)
@@ -132,6 +133,16 @@
 * **Whitepaper:** [Fetch.ai Whitepaper](https://fetch.ai/wp-content/uploads/2019/10/Fetch.AI-Economics-white-paper.pdf)
 * **Proje:** Blockchain ustunde makine ogrenmesi operasyonlari yaparak islemleri hizlandirma hedefleri var. Fazlasiyla kullanim alanlari ve appleri var. Staking mevcut, dolayisiyla degerini korumasi muhtemel. Guvenli ve hizli yapay zeka mentalitesiyle degerini arttirabilir. Mart civari Ethereum Network'unden ayrlip kendi mainnetine gecmesi bekleniyor.
 * **Rating:** 8/10
+
+## **$TOMO (Tomochain)**
+
+* **Market Cap:** 151 Milyon $
+* **Fiyat:** $1.99
+* **Web Sitesi:** [tomochain.com](https://tomochain.com/)
+* **Whitepaper:** [Tomochain Whitepaper](https://tomochain.com/docs/technical-whitepaper--1.0.pdf)
+* **Proje:** Hizli ve programlamlanmaya uygun olan Tomochain, blockhainler uzerinde yuksek performans ve dusuk ucretli aplikasyonlar yapmayi kolaylastiriyor. Merkezsiz kripto borsasi olan **DEX**leri insa etmeyi kolaylastiran bu proje boga piyasasina gore dusuk hacmiyle saglikli yukselisler gosterebilir.
+* **Rating:** 7/10
+* **Son Guncelleme:** 17.02.2021 - 22:53
 
 ## **$LTO (LTO Network)**
 
