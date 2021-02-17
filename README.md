@@ -30,6 +30,7 @@
   - [**$ONT (Ontology)**](#ont-ontology)
   - [**$1INCH (1INCH Exchange)**](#1inch-1inch-exchange)
   - [**$STX (Stacks)**](#stx-stacks)
+  - [**$GRT (The Graph)**](#grt-the-graph)
   - [**$ADA (Cardano)**](#ada-cardano)
   - [**$ETH (Ethereum)**](#eth-ethereum)
 
@@ -182,6 +183,16 @@
 * **Whitepaper:** [Stacks Whitepaper](https://gaia.blockstack.org/hub/1AxyPunHHAHiEffXWESKfbvmBpGQv138Fp/stacks.pdf)
 * **Proje:** Bitcoin'i daha islevsel ve proglamlanabilir hale getirmeyi hedefleyen bu proje, Bitcoin blockchaini uzerinde kullanilabilen "Clarity" smart contract programlama dilini bizlere sunuyor. STX tokenlerinizi "stack"leyerek ayrica faizle BTC de kazanabiliyorsunuz.
 * **Rating:** 9/10
+
+## **$GRT (The Graph)**
+
+* **Market Cap:** 2.5 Milyar $
+* **Fiyat:** $2.04
+* **Web Sitesi:** [thegraph.com](https://thegraph.com/)
+* **Whitepaper:** [The Graph Whitepaper](https://thegraph.com/docs/)
+* **Proje:** Gunumuz yazilim muhendisliginin en onemli parcalarindan API'larin merkeziyetsiz ve bir sirkete bagli kalmaksizin kullanilmasini saglayan bu ekosisteme veri ekleyebilir, duzenleyebilir veya kullanabilirsiniz. Her islem GRT tokeni uzerinden gerceklesir ve API kullanimi modern ve populerligi artan bir protcol olan GraphQL uzerinden yapilir. Gelecegi olan cok saglam bir proje.
+* **Rating:** 10/10
+* **Son Guncelleme:** 17.02.2021 - 15.11
 
 ## **$ADA (Cardano)**
 
