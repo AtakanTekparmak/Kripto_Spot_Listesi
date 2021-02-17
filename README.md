@@ -25,6 +25,7 @@
   - [**$FET (Fetch.ai)**](#fet-fetchai)
   - [**$LTO (LTO Network)**](#lto-lto-network)
   - [**$SXP (Swipe)**](#sxp-swipe)
+  - [**$CVC (Civic)**](#cvc-civic)
 - [Az Riskli Projeler (500m+ Market Cap)](#az-riskli-projeler-500m-market-cap)
   - [**$ONT (Ontology)**](#ont-ontology)
   - [**$1INCH (1INCH Exchange)**](#1inch-1inch-exchange)
@@ -146,6 +147,16 @@
 * **Whitepaper:** [Swipe Whitepaper](https://swipe.io/ProductManual.pdf)
 * **Proje:** Bu projenin sahibi ve buyuk ortagi Binance. Kriptoparanin gercek hayatta gun icinde cok kolay ve seri kullanimi uzerine dayali bir misyona sahip. Visa ile anlasmalari ve 4 adet kartlari var. Mobil uygulamasi mevcut ve wallet appinde 50'den fazla kriptopara alim/satimi ve cevirimi yapilabiliyor.
 * **Rating:** 9/10
+
+## **$CVC (Civic)**
+
+* **Market Cap:** 290 Milyon $
+* **Fiyat:** $0.43
+* **Web Sitesi:** [civic.com](https://www.civic.com/)
+* **Whitepaper:** [Civic Whitepaper](https://tokensale.civic.com/CivicTokenSaleWhitePaper.pdf)
+* **Proje:** Isletmeler ve bireyler icin kimlikli kripto cuzdanlarini yayginlastirmayi hedefleyen bu proje pandemiyle birlikte blockchainde guvenli covid test sonuclarini tutuyor ve kullanicilari yaninda test sonuclarini tasiyabiliyor (COVID eklentisi launh hedefi bahar 2021). Kimlik ve tanimlama uzerindeki projelere yonelen CVC, boga piyasasinda yukselis umudu tasiyor.
+* **Rating:** 8/10
+* **Son Guncelleme:** 17.02.2021 - 15:05
 
 # Az Riskli Projeler (500m+ Market Cap)
 
