@@ -28,6 +28,7 @@
   - [**$SXP (Swipe)**](#sxp-swipe)
   - [**$CVC (Civic)**](#cvc-civic)
 - [Az Riskli Projeler (500m+ Market Cap)](#az-riskli-projeler-500m-market-cap)
+  - [**$ZEN (Horizen)**](#zen-horizen)
   - [**$ONT (Ontology)**](#ont-ontology)
   - [**$1INCH (1INCH Exchange)**](#1inch-1inch-exchange)
   - [**$STX (Stacks)**](#stx-stacks)
@@ -172,6 +173,15 @@
 
 # Az Riskli Projeler (500m+ Market Cap)
 
+## **$ZEN (Horizen)**
+
+* **Market Cap:** 618 Milyon $
+* **Fiyat:** $74.89
+* **Web Sitesi:** [horizen.io](https://www.horizen.io/)
+* **Whitepaper:** [Horizen Whitepaper](https://www.horizen.io/research/)
+* **Proje:** Blockhainler blockhaini olarak tabir edilebilen Horizen, kendi blockchaininizi yapmaniza olanak sagliyor. Ana chaini ve side chainleri olan bu projede staking mevcut. "En buyuk ve en merkezsiz blockchain altyapisi" olarak kendini tanimlayan Horizen, kripto camiasinda meshur olan **%51 saldirilarina** karsi guvenli ve bu listede halihazirda bulunan **LTO Network** tarafindan kullaniliyor.
+* **Rating:** 9/10
+* * **Son Guncelleme:** 17.02.2021 - 23.08
 ## **$ONT (Ontology)**
 
 * **Market Cap:** 929 Milyon $
