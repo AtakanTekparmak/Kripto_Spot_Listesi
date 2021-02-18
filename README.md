@@ -121,11 +121,13 @@
 
 ## **$ORN (Orion Protocol)**
 
-* **Market Cap:** 110 Milyon $
+* **Market Cap:** 106 Milyon $
+* **Fiyat:** $6.26
 * **Web Sitesi:** [orionprotocol.io](https://www.orionprotocol.io/)
 * **Whitepaper:** [Orion Protocol Whitepaper](https://www.orionprotocol.io/hubfs/whitepaper.pdf)
-* **Proje:** Uniswap, Sushiswap, Pancakeswap gibi kripto exchangeleri kurulumu yapmanizi saglayan buyuk bi ekosistem. 16 adet gelir kaynaklari var ve bu tokenin degerini yuksek degerlerde tutmayi sagliyor. Staking mevcut, ve piyasadaki token sayisini az tutmaya calisan bi algoritmasi var. Staking mevcut, gecen sene %33mus.
-* **Rating:** 8/10
+* **Proje:** Uniswap, Sushiswap, Pancakeswap gibi kripto exchangeleri kurulumu yapmanizi saglayan buyuk bi ekosistem. 16 adet gelir kaynaklari var ve bu tokenin degerini yuksek degerlerde tutmayi sagliyor. Staking mevcut, ve piyasadaki token sayisini az tutmaya calisan bi algoritmasi var.
+* **Rating:** 7/10
+* **Son Guncelleme:** 18.02.2021 - 09:29
 
 ## **$FET (Fetch.ai)**
 
